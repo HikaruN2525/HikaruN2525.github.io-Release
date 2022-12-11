@@ -1,4 +1,3 @@
-#【卒業論文 追加課題・アウトオブサンプル検証】
 #シミュレーション(モンテカルロ,4銘柄)
 
 #===========================================================================================================
@@ -19,14 +18,14 @@ N = 245
 
 #データの読み込み
 #配当込み収益率データの読み込み
-DF_TOPIX17_00 <- read.xlsx("/Users/ev80004/graduation research/data/original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
+DF_TOPIX17_00 <- read.xlsx("./original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
 #配当込み収益率データの使用部分のみ抽出
 DF_TOPIX17_0 <- DF_TOPIX17_00[,1:245] #アウトオブサンプル期間2021年の1年間分
 #DF_TOPIX17_0 <- DF_TOPIX17_00[,1:121] #アウトオブサンプル期間2021年の半年分(1〜6月)
 #クラスタリングデータの読み込み
-DF_TOPIX17_01 <- read.xlsx("/Users/ev80004/graduation research/data/TOPIX17 rename.xlsx",sheet=2,colNames=TRUE,rowNames=TRUE)
+DF_TOPIX17_01 <- read.xlsx("./TOPIX17 rename.xlsx",sheet=2,colNames=TRUE,rowNames=TRUE)
 #β値データの読み込み
-DF_TOPIX17_02 <- read.xlsx("/Users/ev80004/graduation research/data/Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_TOPIX17_02 <- read.xlsx("./Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #上記3つのデータを結合
 DF_TOPIX17_1 <- cbind(DF_TOPIX17_01,DF_TOPIX17_02,DF_TOPIX17_0)
 #データ要約の表示
@@ -218,14 +217,14 @@ N = 245
 
 #データの読み込み
 #配当込み収益率データの読み込み
-DF_Sector_00 <- read.xlsx("/Users/ev80004/graduation research/data/original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
+DF_Sector_00 <- read.xlsx("./original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
 #配当込み収益率データの使用部分のみ抽出
 DF_Sector_0 <- DF_Sector_00[,1:245] #アウトオブサンプル期間2021年の1年間分
 #DF_Sector_0 <- DF_Sector_00[,1:121] #アウトオブサンプル期間2021年の半年分(1〜6月)
 #クラスタリングデータの読み込み
-DF_Sector_01 <- read.xlsx("/Users/ev80004/graduation research/data/TOPIX17 rename.xlsx",sheet=4,colNames=TRUE,rowNames=TRUE)
+DF_Sector_01 <- read.xlsx("./TOPIX17 rename.xlsx",sheet=4,colNames=TRUE,rowNames=TRUE)
 #β値データの読み込み
-DF_Sector_02 <- read.xlsx("/Users/ev80004/graduation research/data/Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_Sector_02 <- read.xlsx("./Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #上記3つのデータを結合
 DF_Sector_1 <- cbind(DF_Sector_01,DF_Sector_02,DF_Sector_0)
 #データ要約の表示
@@ -417,14 +416,14 @@ N = 245
 
 #データの読み込み
 #配当込み収益率データの読み込み
-DF_DTWMedN_00 <- read.xlsx("/Users/ev80004/graduation research/data/original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedN_00 <- read.xlsx("./original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
 #配当込み収益率データの使用部分のみ抽出
 DF_DTWMedN_0 <- DF_DTWMedN_00[,1:245] #アウトオブサンプル期間2021年の1年間分
 #DF_DTWMedN_0 <- DF_DTWMedN_00[,1:121] #アウトオブサンプル期間2021年の半年分(1〜6月)
 #クラスタリングデータの読み込み
-DF_DTWMedN_01 <- read.xlsx("/Users/ev80004/graduation research/result of analysis/clustering/DTW+k-medoids(N)/best k result (k=5)/clustering result (DTW+k-medoids(N)).xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedN_01 <- read.xlsx("./clustering result (DTW+k-medoids(N)).xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #β値データの読み込み
-DF_DTWMedN_02 <- read.xlsx("/Users/ev80004/graduation research/data/Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedN_02 <- read.xlsx("./Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #上記3つのデータを結合
 DF_DTWMedN_03 <- cbind(DF_DTWMedN_01,DF_DTWMedN_02,DF_DTWMedN_0)
 #不要な列を削除
@@ -618,14 +617,14 @@ N = 245
 
 #データの読み込み
 #配当込み収益率データの読み込み
-DF_DTWMedS_00 <- read.xlsx("/Users/ev80004/graduation research/data/original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedS_00 <- read.xlsx("./original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
 #配当込み収益率データの使用部分のみ抽出
 DF_DTWMedS_0 <- DF_DTWMedS_00[,1:245] #アウトオブサンプル期間2021年の1年間分
 #DF_DTWMedS_0 <- DF_DTWMedS_00[,1:121] #アウトオブサンプル期間2021年の半年分(1〜6月)
 #クラスタリングデータの読み込み
-DF_DTWMedS_01 <- read.xlsx("/Users/ev80004/graduation research/result of analysis/clustering/DTW+k-medoids(S)/best k result (k=5)/clustering result (DTW+k-medoids(S)).xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedS_01 <- read.xlsx("./clustering result (DTW+k-medoids(S)).xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #β値データの読み込み
-DF_DTWMedS_02 <- read.xlsx("/Users/ev80004/graduation research/data/Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedS_02 <- read.xlsx("./Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #上記3つのデータを結合
 DF_DTWMedS_03 <- cbind(DF_DTWMedS_01,DF_DTWMedS_02,DF_DTWMedS_0)
 #不要な列を削除
@@ -819,14 +818,14 @@ N = 245
 
 #データの読み込み
 #配当込み収益率データの読み込み
-DF_DTWMedβ_00 <- read.xlsx("/Users/ev80004/graduation research/data/original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedβ_00 <- read.xlsx("./original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
 #配当込み収益率データの使用部分のみ抽出
 DF_DTWMedβ_0 <- DF_DTWMedβ_00[,1:245] #アウトオブサンプル期間2021年の1年間分
 #DF_DTWMedβ_0 <- DF_DTWMedβ_00[,1:121] #アウトオブサンプル期間2021年の半年分(1〜6月)
 #クラスタリングデータの読み込み
-DF_DTWMedβ_01 <- read.xlsx("/Users/ev80004/graduation research/result of analysis/clustering/DTW+k-medoids(β)/best k result (k=4)/clustering result (DTW+k-medoids(β)).xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedβ_01 <- read.xlsx("./clustering result (DTW+k-medoids(β)).xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #β値データの読み込み
-DF_DTWMedβ_02 <- read.xlsx("/Users/ev80004/graduation research/data/Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_DTWMedβ_02 <- read.xlsx("./Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #上記3つのデータを結合
 DF_DTWMedβ_03 <- cbind(DF_DTWMedβ_01,DF_DTWMedβ_02,DF_DTWMedβ_0)
 #不要な列を削除
@@ -1020,14 +1019,14 @@ N = 245
 
 #データの読み込み
 #配当込み収益率データの読み込み
-DF_ALL_00 <- read.xlsx("/Users/ev80004/graduation research/data/original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
+DF_ALL_00 <- read.xlsx("./original data.xlsx",sheet=5,startRow=1,colNames=TRUE,rowNames=TRUE)
 #配当込み収益率データの使用部分のみ抽出
 DF_ALL_0 <- DF_ALL_00[,1:245] #アウトオブサンプル期間2021年の1年間分
 #DF_ALL_0 <- DF_ALL_00[,1:121] #アウトオブサンプル期間2021年の半年分(1〜6月)
 #番号の割り当て
 DF_ALL_01 <- c(1:223)
 #β値データの読み込み
-DF_ALL_02 <- read.xlsx("/Users/ev80004/graduation research/data/Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
+DF_ALL_02 <- read.xlsx("./Beta value.xlsx",sheet=1,colNames=TRUE,rowNames=TRUE)
 #上記3つのデータを結合
 DF_ALL_1  <- cbind(DF_ALL_01,DF_ALL_02,DF_ALL_0)
 #データ要約の表示
