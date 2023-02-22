@@ -11,7 +11,7 @@ Hikaru Nagashima
 - C (2years)
 - FreeFem++ (1years)
 
-### Qualifications 【Japanese translation】
+### Qualifications (Date of acquisition) 【Japanese translation】
 - Specialized field
   - Japan Statistical Society Certificate Grade Pre-1 【統計検定準1級】
   - Fundamental Information Technology Engineer Examination 【基本情報技術者】
