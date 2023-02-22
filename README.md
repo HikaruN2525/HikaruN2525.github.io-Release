@@ -11,9 +11,9 @@ Hikaru Nagashima
 - C (2years)
 - FreeFem++ (1years)
 
-### Qualifications
+### Qualifications (Japanese translation)
 - Specialized field
-  - Japan Statistical Society Certificate Grade Pre-1
+  - Japan Statistical Society Certificate Grade Pre-1 (統計検定準一級)
 - Language field
   - かんたんな日常会話ができる
   - TOEIC: xxx点
