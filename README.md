@@ -1,4 +1,4 @@
-# About this repository and its creator：レポジトリと作成者について
+# About this repository & its creator：レポジトリと作成者について
 
 ## (1) Basic information：基本情報
 ### (1-1) Name：名前
