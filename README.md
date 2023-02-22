@@ -8,7 +8,7 @@ Hikaru Nagashima
 Meiji university Graduate School of Advanced Mathematical Sciences Mathematical Sciences Program：明治大学 先端数理科学研究科 現象数理学専攻
 
 ### (1-3) Academic credentials：学位
-Bachelor of Science：学士 （理学）
+Bachelor of Science：学士 (理学)
 
 Master of Statistical Science※：修士 (統計科学)
 
