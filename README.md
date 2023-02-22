@@ -19,7 +19,7 @@ Hikaru Nagashima
   - Professional Survey Statistician 【専門統計調査士】
   - Python 3 Certified Engineer Data Analytics Examination 【Python 3 エンジニア認定データ分析試験】
 - Language field
-  - TOEIC Listening&Reading score is 730
+  - TOEIC Listening&Reading score is 730 【TOEIC Listening&Reading 730点】
 
 ## 課外活動
 
