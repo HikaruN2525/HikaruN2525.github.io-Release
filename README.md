@@ -3,15 +3,15 @@
 ## Name：名前
 Hikaru Nagashima
 
-## (1) Programming skills and Qualifications：プログラミングスキルと資格
-### (1-1) Programming skills：プログラミングスキル
+## (2) Programming skills and Qualifications：プログラミングスキルと資格
+### (2-1) Programming skills：プログラミングスキル
 - Python (5years, Master's thesis) ： 主に修士研究で使用
 - R (5years, Graduation thesis) ： 主に卒業研究で使用
 - SQL (2years, Course at the university) ： 主に大学の講義で使用
 - C (2years, Course at the university) ： 主に大学の講義で使用
 - FreeFem++ (1years, Course at the university) ： 主に大学の講義で使用
 
-### (1-2) Qualifications：資格
+### (2-2) Qualifications：資格
 - Specialized field：専門分野
   - Japan Statistical Society Certificate Grade Pre-1 (9/2021) ： 統計検定準1級
   - Fundamental Information Technology Engineer Examination (6/2022) : 基本情報技術者
@@ -22,11 +22,11 @@ Hikaru Nagashima
 - Language field：語学分野
   - TOEIC Listening&Reading score is 730 (3/2021) : TOEIC Listening&Reading 730点
 
-## (2) Research activities：研究活動
-### (2-1) Affiliated academic society：所属学会
+## (3) Research activities：研究活動
+### (3-1) Affiliated academic society：所属学会
 Operations Research Society of Japan：日本オペレーションズ・リサーチ学会
 
-### (2-2) Conference presentation：学会発表
+### (3-2) Conference presentation：学会発表
 #### Conference：発表した学会
 Operations Research Society of Japan, 2022 Fall Meeting：日本オペレーションズ・リサーチ学会 2022年秋季研究発表会
 
