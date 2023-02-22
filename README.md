@@ -1,4 +1,4 @@
-# Profile：プロフィール
+# About this repository and the profile of its creator：このレポジトリと作成者のプロフィールについて
 
 ## (1) Basic information：基本情報
 ### (1-1) Name：名前
