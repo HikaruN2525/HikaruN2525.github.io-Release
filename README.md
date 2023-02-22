@@ -10,7 +10,7 @@ Note that the codes stored in the "graduation research" file are those used for 
 
 ## (1) Basic information：基本情報
 ### (1-1) Name：名前
-Hikaru Nagashima
+Hikaru Nagashima：長島 暉
 
 ### (1-2) Affiliation：所属
 Meiji university Graduate School of Advanced Mathematical Sciences Mathematical Sciences Program：明治大学 先端数理科学研究科 現象数理学専攻
