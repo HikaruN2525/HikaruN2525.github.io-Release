@@ -1,5 +1,7 @@
 # HikaruN2525.github.io-Release
 
+# 長島　暉
+
 # 職務経歴書
 
 ## 基本情報
