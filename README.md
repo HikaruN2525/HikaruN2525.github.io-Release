@@ -20,7 +20,7 @@ Bachelor of Science：学士 (理学)
 
 Master of Statistical Science※：修士 (統計科学)
 
-※Planned date of acquisition 3/2024 ： 取得予定日 2024/3
+※ Planned date of acquisition 3/2024 ： 取得予定日 2024/3
 
 ## (2) Programming skills and Qualifications：プログラミングスキルと資格
 ### (2-1) Programming skills：プログラミングスキル
