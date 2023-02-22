@@ -1,11 +1,7 @@
 # HikaruN2525.github.io-Release
 
-# 長島　暉
-
-# 職務経歴書
-
 ## 基本情報
-- Name:
+- Name: 長島 暉
 - Blog: [ブログ名](http://example.com)
 - Twitter: @アカウント名 https://example.com/アカウント
 
