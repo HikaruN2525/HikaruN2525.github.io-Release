@@ -1,9 +1,9 @@
 # HikaruN2525.github.io-Release
 
 ## 基本情報
-- Name: 長島 暉
+- Name : Hikaru Nagashima
 
-## スキル・資格
+## skills and qualifications
 ### 経験済みプログラミング言語(経験年数、主な用途)
 - Python
 - R
