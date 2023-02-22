@@ -5,11 +5,11 @@ Hikaru Nagashima
 
 ## Skills and Qualifications
 ### Programming languages(Years of experience and Purpose of usage)
-- Python(5years)
-- R(5years)
-- SQL(2years)
-- C(2years)
-- FreeFem++(1years)
+- Python (5years)
+- R (5years)
+- SQL (2years)
+- C (2years)
+- FreeFem++ (1years)
 
 ## 言語
 
