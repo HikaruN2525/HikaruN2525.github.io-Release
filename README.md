@@ -1,10 +1,10 @@
 # HikaruN2525.github.io-Release
 
-## 基本情報
-- Name : Hikaru Nagashima
+## Name
+Hikaru Nagashima
 
 ## Skills and Qualifications
-### 経験済みプログラミング言語(経験年数、主な用途)
+### Programming languages
 - Python
 - R
 - SQL
