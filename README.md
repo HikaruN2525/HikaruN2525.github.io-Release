@@ -15,7 +15,7 @@ Hikaru Nagashima
 - Specialized field
   - Japan Statistical Society Certificate Grade Pre-1 (統計検定準1級)
   - Fundamental Information Technology Engineer Examination (基本情報技術者)
-  - 
+  - Professional Survey Statistician (専門統計調査士)
 - Language field
   - TOEIC: xxx点
 
