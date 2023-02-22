@@ -1,4 +1,4 @@
-# HikaruN2525.github.io-Release
+# resume
 
 ## Name
 Hikaru Nagashima
