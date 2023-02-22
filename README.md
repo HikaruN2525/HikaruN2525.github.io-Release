@@ -11,13 +11,13 @@ Hikaru Nagashima
 - C (2years)
 - FreeFem++ (1years)
 
-### Qualifications (Japanese translation)
+### Qualifications 【Japanese translation】
 - Specialized field
-  - Japan Statistical Society Certificate Grade Pre-1 (統計検定準1級)
-  - Fundamental Information Technology Engineer Examination (基本情報技術者)
-  - JDLA Deep Learning for GENERAL (G検定、ジェネラリスト検定)
-  - Professional Survey Statistician (専門統計調査士)
-  - Python 3 Certified Engineer Data Analytics Examination (Python 3 エンジニア認定データ分析試験)
+  - Japan Statistical Society Certificate Grade Pre-1 【統計検定準1級】
+  - Fundamental Information Technology Engineer Examination 【基本情報技術者】
+  - JDLA Deep Learning for GENERAL 【G検定、ジェネラリスト検定】
+  - Professional Survey Statistician 【専門統計調査士】
+  - Python 3 Certified Engineer Data Analytics Examination 【Python 3 エンジニア認定データ分析試験】
 - Language field
   - TOEIC: xxx点
 
