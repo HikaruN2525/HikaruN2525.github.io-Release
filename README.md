@@ -21,11 +21,11 @@ Hikaru Nagashima
 - Language field：語学分野
   - TOEIC Listening&Reading score is 730 (3/2021) : TOEIC Listening&Reading 730点
 
-## Research activities
-### Affiliated academic society
-Operations Research Society of Japan
+## Research activities:研究活動
+### Affiliated academic society:所属学会
+Operations Research Society of Japan:日本オペレーションズ・リサーチ学会
 
-### Conference presentation
+### Conference presentation:学会発表
 (https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-D-6.pdf)
 
 ### 受賞歴
