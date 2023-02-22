@@ -3,9 +3,11 @@
 ## (1) Basic information：基本情報
 ### (1-1) Name：名前
 Hikaru Nagashima
+
 ### (1-2) Affiliation：所属
 Meiji university Graduate School of Advanced Mathematical Sciences Mathematical Sciences Program：明治大学 先端数理科学研究科 現象数理学専攻
 
+### (1-) Affiliation：所属
 
 ## (2) Programming skills and Qualifications：プログラミングスキルと資格
 ### (2-1) Programming skills：プログラミングスキル
