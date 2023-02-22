@@ -5,11 +5,11 @@ Hikaru Nagashima
 
 ## Programming skills and Qualifications
 ### Programming skills (Years of experience & Purpose of usage)
-- Python (5years)
-- R (5years)
-- SQL (2years)
-- C (2years)
-- FreeFem++ (1years)
+- Python (5years, Master's thesis)
+- R (5years, Graduation thesis)
+- SQL (2years, Course at the university)
+- C (2years, Course at the university)
+- FreeFem++ (1years, Course at the university)
 
 ### Qualifications (Date of acquisition) 【Japanese translation】
 - Specialized field
