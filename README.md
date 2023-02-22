@@ -1,6 +1,6 @@
 # Profile：経歴
 
-## Name：名前
+## (1) Name：名前
 Hikaru Nagashima
 
 ## (2) Programming skills and Qualifications：プログラミングスキルと資格
