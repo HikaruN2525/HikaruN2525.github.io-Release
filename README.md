@@ -4,31 +4,20 @@
 Hikaru Nagashima
 
 ## Skills and Qualifications
-### Programming languages(Years of experience and Purpose of usage)
+### Programming languages (Years of experience and Purpose of usage)
 - Python (5years)
 - R (5years)
 - SQL (2years)
 - C (2years)
 - FreeFem++ (1years)
 
-## 言語
+### Qualifications
 
 - 日本語
   - ネイティブ
 - 英語
   - かんたんな日常会話ができる
   - TOEIC: xxx点
-
-
-
-## 職務経歴
-### yyyy/mm - 現在 : 会社名、プロジェクト名
-#### 職務内容
-#### 職務の中で学んだことや得られた知識・スキルなど
-
-### yyyy/mm - yyyy/mm: （以前の企業名、プロジェクト名）
-#### 職務内容
-#### 職務の中で学んだことや得られた知識・スキルなど
 
 ## 課外活動
 
