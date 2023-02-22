@@ -1,5 +1,7 @@
 # About this repository & its creator：レポジトリと作成者について
 
+This repository contains a collection of Python and R code that I have created and use in my research activities.
+
 ## (1) Basic information：基本情報
 ### (1-1) Name：名前
 Hikaru Nagashima
