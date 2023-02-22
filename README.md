@@ -31,11 +31,9 @@ Operations Research Society of Japan：日本オペレーションズ・リサ�
 Operations Research Society of Japan, 2022 Fall Meeting：日本オペレーションズ・リサーチ学会 2022年秋季研究発表会
 
   【Title】
-
   Reorganization of industry categories and risk control using similarity measures between time series data：時系列データ間の類似尺度を用いた業種区分の再編とリスクコントロール
 
   【Abstract】
-
   https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-D-6.pdf
 
 ## 将来どうなりたいか
