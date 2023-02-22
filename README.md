@@ -12,10 +12,9 @@ Hikaru Nagashima
 - FreeFem++ (1years)
 
 ### Qualifications
-
-- 日本語
-  - ネイティブ
-- 英語
+- Specialized field
+  - Japan Statistical Society Certificate Grade Pre-1
+- Language field
   - かんたんな日常会話ができる
   - TOEIC: xxx点
 
