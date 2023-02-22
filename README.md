@@ -1,4 +1,4 @@
-# Profile：経歴
+# Profile：プロフィール
 
 ## (1) Name：名前
 Hikaru Nagashima
