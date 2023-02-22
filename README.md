@@ -3,7 +3,7 @@
 ## 基本情報
 - Name : Hikaru Nagashima
 
-## skills and qualifications
+## Skills and Qualifications
 ### 経験済みプログラミング言語(経験年数、主な用途)
 - Python
 - R
