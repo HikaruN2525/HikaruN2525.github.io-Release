@@ -16,8 +16,8 @@ Master of Statistical Science※：修士 (統計科学)
 
 ## (2) Programming skills and Qualifications：プログラミングスキルと資格
 ### (2-1) Programming skills：プログラミングスキル
-- Python (5years, Master's thesis) ： 主に修士研究で使用
-- R (5years, Graduation thesis) ： 主に卒業研究で使用
+- Python (5years, Master's research) ： 主に修士研究で使用
+- R (5years, Graduation research) ： 主に卒業研究で使用
 - SQL (2years, Course at the university) ： 主に大学の講義で使用
 - C (2years, Course at the university) ： 主に大学の講義で使用
 - FreeFem++ (1years, Course at the university) ： 主に大学の講義で使用
