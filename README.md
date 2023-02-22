@@ -13,13 +13,13 @@ Hikaru Nagashima
 
 ### Qualifications：資格
 - Specialized field：専門分野
-  - Japan Statistical Society Certificate Grade Pre-1 (9/2021) ： 統計検定準1級
-  - Fundamental Information Technology Engineer Examination (6/2022) 【基本情報技術者】
-  - JDLA Deep Learning for GENERAL (3/2022) 【G検定、ジェネラリスト検定】
-  - Professional Survey Statistician (2/2022) 【専門統計調査士】
-  - Python 3 Certified Engineer Data Analytics Examination (8/2021) 【Python 3 エンジニア認定データ分析試験】
+  - Japan Statistical Society Certificate Grade Pre-1 (9/2021) ： 統計検定準1級 (2021/9)
+  - Fundamental Information Technology Engineer Examination (6/2022) : 基本情報技術者 (2022/6)
+  - JDLA Deep Learning for GENERAL (3/2022) : G検定、ジェネラリスト検定 (2022/3)
+  - Professional Survey Statistician (2/2022) : 専門統計調査士 (2022/2)
+  - Python 3 Certified Engineer Data Analytics Examination (8/2021) : Python 3 エンジニア認定データ分析試験 (2021/8)
 - Language field：語学分野
-  - TOEIC Listening&Reading score is 730 (3/2021) 【TOEIC Listening&Reading 730点】
+  - TOEIC Listening&Reading score is 730 (3/2021) : TOEIC Listening&Reading 730点 (2021/3)
 
 ## Research activities
 ### Affiliated academic society
