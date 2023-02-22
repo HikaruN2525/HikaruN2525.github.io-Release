@@ -1,6 +1,6 @@
 # My resume
 
-## Name　：　名前
+## Name：名前
 Hikaru Nagashima
 
 ## Programming skills and Qualifications：プログラミングスキルと資格
