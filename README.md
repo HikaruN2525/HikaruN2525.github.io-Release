@@ -10,7 +10,9 @@ Meiji university Graduate School of Advanced Mathematical Sciences Mathematical 
 ### (1-3) Academic credentials：学位
 Master of Statistical Science：修士 (統計科学)
 
-Master of Statistical Science：修士 (統計科学) ※Planned date of acquisition 3/2024 ： 取得予定日 2024/3
+Master of Statistical Science：修士 (統計科学)※
+
+※Planned date of acquisition 3/2024 ： 取得予定日 2024/3
 
 ## (2) Programming skills and Qualifications：プログラミングスキルと資格
 ### (2-1) Programming skills：プログラミングスキル
