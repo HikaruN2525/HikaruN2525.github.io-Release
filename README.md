@@ -1,7 +1,12 @@
 # Profile：プロフィール
 
-## (1) Name：名前
+## (1) Basic information：基本情報
+### (1-1) Name：名前
 Hikaru Nagashima
+### (1-2) Affiliation：所属
+Meiji university：明治大学
+Graduate School of Advanced Mathematical Sciences：先端数理科学研究科
+
 
 ## (2) Programming skills and Qualifications：プログラミングスキルと資格
 ### (2-1) Programming skills：プログラミングスキル
