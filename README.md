@@ -4,6 +4,8 @@ This repository contains a collection of Python and R code that I have created a
 
 このレポジトリでは、私が研究活動で作成し、使っているPythonやRのコードをまとめて公開しています。
 
+なお、graduation researchのファイルに格納されているコードは卒業研究で用いたもので、Master's researchのファイルに格納されているコードは現在修士研究で用いているものです。
+
 ## (1) Basic information：基本情報
 ### (1-1) Name：名前
 Hikaru Nagashima
