@@ -3,8 +3,8 @@
 ## Name
 Hikaru Nagashima
 
-## Skills and Qualifications
-### Programming languages (Years of experience and Purpose of usage)
+## Programming skills and Qualifications
+### Programming skills (Years of experience and Purpose of usage)
 - Python (5years)
 - R (5years)
 - SQL (2years)
@@ -13,9 +13,10 @@ Hikaru Nagashima
 
 ### Qualifications (Japanese translation)
 - Specialized field
-  - Japan Statistical Society Certificate Grade Pre-1 (統計検定準一級)
+  - Japan Statistical Society Certificate Grade Pre-1 (統計検定準1級)
+  - Fundamental Information Technology Engineer Examination (基本情報技術者)
+  - 
 - Language field
-  - かんたんな日常会話ができる
   - TOEIC: xxx点
 
 ## 課外活動
