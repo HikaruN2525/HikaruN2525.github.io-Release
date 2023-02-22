@@ -21,12 +21,10 @@ Hikaru Nagashima
 - Language field
   - TOEIC Listening&Reading score is 730 (3/2021) 【TOEIC Listening&Reading 730点】
 
-## 課外活動
-
-### 社外プロジェクト
+## Conference presentation
 
 ### 過去の登壇資料
-- [Speaker Deck](Speaker Deckの自分の資料のページとか)
+- (https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-D-6.pdf)
 
 ### 受賞歴
 - [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
