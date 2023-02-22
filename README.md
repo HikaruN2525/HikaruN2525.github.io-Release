@@ -4,7 +4,7 @@
 Hikaru Nagashima
 
 ## Programming skills and Qualifications
-### Programming skills (Years of experience and Purpose of usage)
+### Programming skills (Years of experience & Purpose of usage)
 - Python (5years)
 - R (5years)
 - SQL (2years)
