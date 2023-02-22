@@ -5,11 +5,11 @@ Hikaru Nagashima
 
 ## Programming skills and Qualifications：プログラミングスキルと資格
 ### Programming skills：プログラミングスキル
-- Python (5years, Master's thesis)
-- R (5years, Graduation thesis)
-- SQL (2years, Course at the university)
-- C (2years, Course at the university)
-- FreeFem++ (1years, Course at the university)
+- Python (5years, Master's thesis) ： 修士研究
+- R (5years, Graduation thesis) ： 卒業研究
+- SQL (2years, Course at the university) ： 大学の講義
+- C (2years, Course at the university) ： 大学の講義
+- FreeFem++ (1years, Course at the university) ： 大学の講義
 
 ### Qualifications：資格
 - Specialized field：専門分野
