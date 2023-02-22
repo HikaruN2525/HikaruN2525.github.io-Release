@@ -36,12 +36,3 @@ Operations Research Society of Japan, 2022 Fall Meeting：日本オペレーシ�
   【Abstract】
   https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-D-6.pdf
 
-## 将来どうなりたいか
-### ○年後になりたい姿
-### ○年後になりたい姿
-
-### 現在となりたい姿とのギャップ
-### なりたい姿を達成するために、取り組みたいこと
-
-## その他（相談したいこと、書ききれなかったことなど）
-
