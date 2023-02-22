@@ -2,13 +2,14 @@
 
 ## 基本情報
 - Name: 長島 暉
-- Blog: [ブログ名](http://example.com)
-- Twitter: @アカウント名 https://example.com/アカウント
 
 ## スキル
 ### 言語
-- Java
-- など
+- Python
+- R
+- SQL
+- C
+- FreeFem++
 
 ### フレームワーク、Middleware、Hardware
 - Spring Boot
