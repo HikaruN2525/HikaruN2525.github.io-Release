@@ -3,7 +3,7 @@
 ## Summary：概要
 Conventional industry classifications do not reflect the business model changes and business diversification observed in many large firms in recent years.
 
-In this study, we reorganized the traditional industry classifications using shape-based non-hierarchical clustering based on similarity measures among time-series data, and defined new industry classifications, which are not industry classifications but are referred to as industry classifications for convenience. The results of the study showed that some methods can provide better risk control than TOPIX17 and TOPIX18.
+Therefore, in this study, we reorganize the traditional industry classifications using shape-based non-hierarchical clustering based on similarity measures among time-series data, and call the reorganized ones industry classifications in terms of convenience. We then reorganized the traditional industry classifications by using similarity measures among time-series data, and defined new industry classifications, which are not industry classifications but are referred to as industry classifications for convenience, to examine whether they can provide better risk control than traditional industry classifications when constructing portfolios.
 
 The results of the study showed that, depending on the method used, the risk could be improved by 1% or less, the investment efficiency based on return and trainer ratio could be improved by nearly 3%, and the investment efficiency based on Sharpe ratio could be improved by 13% or more compared to the TOPIX17 industry category.
 
