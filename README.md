@@ -8,29 +8,29 @@ Note that the codes stored in the "graduation research" file are those used for 
 
 なお、「graduation research」のファイルに格納されているコードは卒業研究で用いたもので、「Master's research」のファイルに格納されているコードは現在修士研究で用いているものです。
 
-## (1) Basic information：基本情報
-### (1-1) Name：名前
+## Basic information：基本情報
+### Name：名前
 Hikaru Nagashima：長島 暉
 
-### (1-2) Affiliation：所属
+### Affiliation：所属
 Meiji university Graduate School of Advanced Mathematical Sciences Mathematical Sciences Program：明治大学 先端数理科学研究科 現象数理学専攻
 
-### (1-3) Academic credentials：学位
+### Academic credentials：学位
 Bachelor of Science：学士 (理学)
 
 Master of Statistical Science※：修士 (統計科学)
 
 ※ Planned date of acquisition 3/2024 ： 取得予定日 2024/3
 
-## (2) Programming skills and Qualifications：プログラミングスキルと資格
-### (2-1) Programming skills：プログラミングスキル
+## Programming skills and Qualifications：プログラミングスキルと資格
+### Programming skills：プログラミングスキル
 - Python (5years, Master's research) ： 主に修士研究で使用
 - R (5years, Graduation research) ： 主に卒業研究で使用
 - SQL (2years, Course at the university) ： 主に大学の講義で使用
 - C (2years, Course at the university) ： 主に大学の講義で使用
 - FreeFem++ (1years, Course at the university) ： 主に大学の講義で使用
 
-### (2-2) Qualifications：資格
+### Qualifications：資格
 - Specialized field：専門分野
   - Japan Statistical Society Certificate Grade Pre-1 (9/2021) ： 統計検定準1級
   - Fundamental Information Technology Engineer Examination (6/2022) : 基本情報技術者
@@ -44,11 +44,11 @@ Master of Statistical Science※：修士 (統計科学)
 
 ※ Planned date of acquisition 3/2023 ： 取得予定日 2023/3
 
-## (3) Research activities：研究活動
-### (3-1) Affiliated academic society：所属学会
+## Research activities：研究活動
+### Affiliated academic society：所属学会
 Operations Research Society of Japan：日本オペレーションズ・リサーチ学会
 
-### (3-2) Conference presentation：学会発表
+### Conference presentation：学会発表
 #### Conference：発表した学会
 Operations Research Society of Japan, 2022 Fall Meeting：日本オペレーションズ・リサーチ学会 2022年秋季研究発表会
 
