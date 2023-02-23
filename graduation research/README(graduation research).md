@@ -1,4 +1,4 @@
-# About this repository & its creator：レポジトリと作成者について
+# About graduation research：卒業研究について
 
 This repository contains a collection of Python and R codes that I have created and use in my research activities.
 
