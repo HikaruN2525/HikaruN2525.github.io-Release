@@ -1,5 +1,10 @@
 # About graduation research：卒業研究について
 
+## Title：タイトル
+Reorganization of industry categories and risk control using similarity measures between time series data
+
+時系列データ間の類似尺度を用いた業種区分の再編とリスクコントロール
+
 ## Summary：概要
 Conventional industry classifications do not reflect the business model changes and business diversification observed in many large firms in recent years.
 
