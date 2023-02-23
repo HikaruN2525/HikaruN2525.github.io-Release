@@ -23,3 +23,19 @@ Therefore, it can be said that, apart from the conventional industry classificat
 したがって、従来の業種区分とは別に、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングを用いて、企業単位の特徴に着目した新たな業種区分を定義すべきであるといえる。
 
 ## About "graduation research code.R"
+
+This assumes a portfolio operation of four stocks.
+
+First, the code simulates each industry category.
+
+Next, the code visualizes the results using a box-and-whisker diagram.
+
+Furthermore, the code performs statistical tests. There are two types of statistical tests: the Jack-Bella test and the multiple comparison method (Steele-Douwas method).
+
+これは、4銘柄のポートフォリオ運用を想定している。
+
+まず、各業種区分のシミュレーションを行うコードである。
+
+続いて、箱ひげ図による結果の可視化を行うコードである。
+
+さらに、統計的検定を行うコードである。これは、ジャック-ベラ検定と多重比較法(スティール-ドゥワス法)の二つがある。
