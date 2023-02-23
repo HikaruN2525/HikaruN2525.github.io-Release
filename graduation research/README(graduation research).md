@@ -32,6 +32,13 @@ Next, the code visualizes the results using a box-and-whisker diagram.
 
 Furthermore, the code performs statistical tests. There are two types of statistical tests: the Jarque–Bera test and the multiple comparison method (Steel-Dwass method).
 
+In addition, the following portfolio management evaluation indicators are used.
+- Return
+- Risk
+- Sharpe ratio
+- Treynor ratio
+- Sortino ratio
+
 これは、4銘柄のポートフォリオ運用を想定している。
 
 まず、各業種区分のシミュレーションを行うコードである。
@@ -39,3 +46,10 @@ Furthermore, the code performs statistical tests. There are two types of statist
 続いて、箱ひげ図による結果の可視化を行うコードである。
 
 さらに、統計的検定を行うコードである。これは、ジャック-ベラ検定と多重比較法(スティール-ドゥワス法)の二つがある。
+
+また、ポートフォリオ運用評価指標には以下を用いている。
+- リターン
+- リスク
+- シャープレシオ
+- トレイナーレシオ
+- ソルティノレシオ
