@@ -30,7 +30,7 @@ First, the code simulates each industry category.
 
 Next, the code visualizes the results using a box-and-whisker diagram.
 
-Furthermore, the code performs statistical tests. There are two types of statistical tests: the Jack-Bella test and the multiple comparison method (Steele-Douwas method).
+Furthermore, the code performs statistical tests. There are two types of statistical tests: the Jarque–Bera test and the multiple comparison method (Steel-Dwass method).
 
 これは、4銘柄のポートフォリオ運用を想定している。
 
