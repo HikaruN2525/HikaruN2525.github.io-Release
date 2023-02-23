@@ -37,7 +37,8 @@ Master of Statistical Science※：修士 (統計科学)
   - JDLA Deep Learning for GENERAL (3/2022) : G検定、ジェネラリスト検定
   - Professional Survey Statistician (2/2022) : 専門統計調査士
   - Python 3 Certified Engineer Data Analytics Examination (8/2021) : Python 3 エンジニア認定データ分析試験
-  - YOKOHAMA
+  - YOKOHAMA D-STEP
+  
   ※ Planned date of acquisition 3/2024 ： 取得予定日 2024/3
  
 - Language field：語学分野
