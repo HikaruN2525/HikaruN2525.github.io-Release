@@ -32,7 +32,8 @@ Next, the code visualizes the results using a box-and-whisker diagram.
 
 Furthermore, the code performs statistical tests. There are two types of statistical tests: the Jarque–Bera test and the multiple comparison method (Steel-Dwass method).
 
-In addition, the following portfolio management evaluation indicators are used.
+In addition, the following are mainly used for portfolio management evaluation indicators.
+
 - Return
 - Risk
 - Sharpe ratio
@@ -47,7 +48,7 @@ In addition, the following portfolio management evaluation indicators are used.
 
 さらに、統計的検定を行うコードである。これは、ジャック-ベラ検定と多重比較法(スティール-ドゥワス法)の二つがある。
 
-また、ポートフォリオ運用評価指標には以下を用いている。
+また、ポートフォリオ運用評価指標には、主に以下を用いている。
 - リターン
 - リスク
 - シャープレシオ
