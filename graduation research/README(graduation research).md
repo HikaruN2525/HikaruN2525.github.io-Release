@@ -1,4 +1,4 @@
-# About graduation research：卒業研究について
+# About graduation research
 
 ## Title：タイトル
 Reorganization of industry categories and risk control using similarity measures between time series data
