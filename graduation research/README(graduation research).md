@@ -1,14 +1,6 @@
 # About graduation research：卒業研究について
 
-This repository contains a collection of Python and R codes that I have created and use in my research activities.
-
-Note that the codes stored in the "graduation research" file are those used for graduation research, and the codes stored in the "Master's research" file are those currently used for master's research.
-
-このレポジトリでは、私が研究活動で作成し、使っているPythonやRのコードをまとめて公開しています。
-
-なお、「graduation research」のファイルに格納されているコードは卒業研究で用いたもので、「Master's research」のファイルに格納されているコードは現在修士研究で用いているものです。
-
-## (1) Summary：概要
+## Summary：概要
 従来の業種区分は、近年、多くの大企業で見られるビジネスモデルの変更・事業の多角化を反映し ていない。そこで本研究では、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングにより従来の業種区分を再編し、その再編したものを業種ではないが便宜的に業種区分と呼ぶ こととして新たな業種区分を定義し、ポートフォリオを構築する際に、従来の業種区分よりも優れ たリスクコントロールを図ることができるかを検証した。研究の結果、手法によっては TOPIX17 業種区分に比べ、リスクは 1%以下の向上、リターンとトレイナーレシオによる運用効率は 3%近 くの向上、シャープレシオによる運用効率は 13%以上の向上が見込めることがわかった。したがっ て、従来の業種区分とは別に、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングを用いて、企業単位の特徴に着目した新たな業種区分を定義すべきであるといえる。
 
 ### (1-2) Affiliation：所属
