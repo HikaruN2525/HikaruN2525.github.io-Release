@@ -1,6 +1,6 @@
 # About this repository & its creator：レポジトリと作成者について
 
-This repository contains a collection of Python and R code that I have created and use in my research activities.
+This repository contains a collection of Python and R codes that I have created and use in my research activities.
 
 Note that the codes stored in the "graduation research" file are those used for graduation research, and the codes stored in the "Master's research" file are those currently used for master's research.
 
