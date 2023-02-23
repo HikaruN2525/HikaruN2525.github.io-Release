@@ -1,4 +1,4 @@
-# About this repository & its creator：レポジトリと作成者について
+# About this repository & its creator
 
 This repository contains a collection of Python and R codes that I have created and use in my research activities.
 
