@@ -42,7 +42,7 @@ Master of Statistical Science※：修士 (統計科学)
 - Language field：語学分野
   - TOEIC Listening&Reading score is 730 (3/2021) : TOEIC Listening&Reading 730点
 
-※ Planned date of acquisition 3/2024 ： 取得予定日 2024/3
+※ Planned date of acquisition 3/2023 ： 取得予定日 2023/3
 
 ## (3) Research activities：研究活動
 ### (3-1) Affiliated academic society：所属学会
