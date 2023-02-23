@@ -21,3 +21,5 @@ Therefore, it can be said that, apart from the conventional industry classificat
 研究の結果、手法によっては TOPIX17業種区分に比べ、リスクは 1%以下の向上、リターンとトレイナーレシオによる運用効率は 3%近くの向上、シャープレシオによる運用効率は 13%以上の向上が見込めることがわかった。
 
 したがって、従来の業種区分とは別に、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングを用いて、企業単位の特徴に着目した新たな業種区分を定義すべきであるといえる。
+
+## About "graduation research code.R"
