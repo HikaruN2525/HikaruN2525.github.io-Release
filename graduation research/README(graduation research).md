@@ -22,7 +22,7 @@ Therefore, it can be said that, apart from the conventional industry classificat
 
 したがって、従来の業種区分とは別に、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングを用いて、企業単位の特徴に着目した新たな業種区分を定義すべきであるといえる。
 
-## About "graduation research code.R"
+## About "graduation research code.R"：「graduation research code.R」について
 
 This assumes a portfolio operation of four stocks.
 
