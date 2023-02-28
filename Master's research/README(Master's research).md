@@ -1,60 +1,56 @@
-# About this repository & its creator：レポジトリと作成者について
+# About my Master's research
 
-This repository contains a collection of Python and R codes that I have created and use in my research activities.
+## Title：タイトル
+Reorganization of industry categories and risk control using similarity measures between time series data
 
-Note that the codes stored in the "graduation research" file are those used for graduation research, and the codes stored in the "Master's research" file are those currently used for master's research.
+時系列データ間の類似尺度を用いた業種区分の再編とリスクコントロール
 
-このレポジトリでは、私が研究活動で作成し、使っているPythonやRのコードをまとめて公開しています。
+## Summary：概要
+Conventional industry classifications do not reflect the business model changes and business diversification observed in many large firms in recent years.
 
-なお、「graduation research」のファイルに格納されているコードは卒業研究で用いたもので、「Master's research」のファイルに格納されているコードは現在修士研究で用いているものです。
+Therefore, in this study, we reorganize the traditional industry classifications using shape-based non-hierarchical clustering based on similarity measures among time-series data, and call the reorganized ones industry classifications in terms of convenience. We then reorganized the traditional industry classifications by using similarity measures among time-series data, and defined new industry classifications, which are not industry classifications but are referred to as industry classifications for convenience, to examine whether they can provide better risk control than traditional industry classifications when constructing portfolios.
 
-## (1) Basic information：基本情報
-### (1-1) Name：名前
-Hikaru Nagashima：長島 暉
+The results of the study showed that, depending on the method used, the risk could be improved by 1% or less, the investment efficiency based on return and trainer ratio could be improved by nearly 3%, and the investment efficiency based on Sharpe ratio could be improved by 13% or more compared to the TOPIX17 industry category.
 
-### (1-2) Affiliation：所属
-Meiji university Graduate School of Advanced Mathematical Sciences Mathematical Sciences Program：明治大学 先端数理科学研究科 現象数理学専攻
+Therefore, it can be said that, apart from the conventional industry classification, a new industry classification should be defined that focuses on firm-by-firm characteristics using shape-based non-hierarchical clustering based on similarity measures among time-series data.
 
-### (1-3) Academic credentials：学位
-Bachelor of Science：学士 (理学)
+従来の業種区分は、近年、多くの大企業で見られるビジネスモデルの変更・事業の多角化を反映していない。
 
-Master of Statistical Science※：修士 (統計科学)
+そこで本研究では、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングにより従来の業種区分を再編し、その再編したものを業種ではないが便宜的に業種区分と呼ぶこととして新たな業種区分を定義し、ポートフォリオを構築する際に、従来の業種区分よりも優れたリスクコントロールを図ることができるかを検証した。
 
-※ Planned date of acquisition 3/2024 ： 取得予定日 2024/3
+研究の結果、手法によっては TOPIX17業種区分に比べ、リスクは 1%以下の向上、リターンとトレイナーレシオによる運用効率は 3%近くの向上、シャープレシオによる運用効率は 13%以上の向上が見込めることがわかった。
 
-## (2) Programming skills and Qualifications：プログラミングスキルと資格
-### (2-1) Programming skills：プログラミングスキル
-- Python (5years, Master's research) ： 主に修士研究で使用
-- R (5years, Graduation research) ： 主に卒業研究で使用
-- SQL (2years, Course at the university) ： 主に大学の講義で使用
-- C (2years, Course at the university) ： 主に大学の講義で使用
-- FreeFem++ (1years, Course at the university) ： 主に大学の講義で使用
+したがって、従来の業種区分とは別に、時系列データ間の類似尺度を用いた形状ベースの非階層クラスタリ ングを用いて、企業単位の特徴に着目した新たな業種区分を定義すべきであるといえる。
 
-### (2-2) Qualifications：資格
-- Specialized field：専門分野
-  - Japan Statistical Society Certificate Grade Pre-1 (9/2021) ： 統計検定準1級
-  - Fundamental Information Technology Engineer Examination (6/2022) : 基本情報技術者
-  - JDLA Deep Learning for GENERAL (3/2022) : G検定、ジェネラリスト検定
-  - Professional Survey Statistician (2/2022) : 専門統計調査士
-  - Python 3 Certified Engineer Data Analytics Examination (8/2021) : Python 3 エンジニア認定データ分析試験
-  - YOKOHAMA D-STEP（Data Scientist Educational Program）※ : データサイエンティスト育成プログラムYOKOHAMA D-STEP
- 
-- Language field：語学分野
-  - TOEIC Listening&Reading score is 730 (3/2021) : TOEIC Listening&Reading 730点
+## About "graduation research code.R"：「graduation research code.R」について
 
-※ Planned date of acquisition 3/2023 ： 取得予定日 2023/3
+This assumes a portfolio operation of four stocks.
 
-## (3) Research activities：研究活動
-### (3-1) Affiliated academic society：所属学会
-Operations Research Society of Japan：日本オペレーションズ・リサーチ学会
+First, the code simulates each industry category.
 
-### (3-2) Conference presentation：学会発表
-#### Conference：発表した学会
-Operations Research Society of Japan, 2022 Fall Meeting：日本オペレーションズ・リサーチ学会 2022年秋季研究発表会
+Next, the code visualizes the results using a box-and-whisker diagram.
 
-  【Title】
-  Reorganization of industry categories and risk control using similarity measures between time series data：時系列データ間の類似尺度を用いた業種区分の再編とリスクコントロール
+Furthermore, the code performs statistical tests. There are two types of statistical tests: the Jarque–Bera test and the multiple comparison method (Steel-Dwass method).
 
-  【Abstract】
-  https://orsj.org/wp-content/nc-abstract/nc2022f/2022f-1-D-6.pdf
+In addition, the following are mainly used for portfolio management evaluation indicators.
 
+- Return
+- Risk
+- Sharpe ratio
+- Treynor ratio
+- Sortino ratio
+
+これは、4銘柄のポートフォリオ運用を想定している。
+
+まず、各業種区分のシミュレーションを行うコードである。
+
+続いて、箱ひげ図による結果の可視化を行うコードである。
+
+さらに、統計的検定を行うコードである。これは、ジャック-ベラ検定と多重比較法(スティール-ドゥワス法)の二つがある。
+
+また、ポートフォリオ運用評価指標には、主に以下を用いている。
+- リターン
+- リスク
+- シャープレシオ
+- トレイナーレシオ
+- ソルティノレシオ
